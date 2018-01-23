@@ -1,0 +1,10 @@
+{
+  "name": "Trans",
+  "version": "1.0.0",
+  "description": "Bot",
+  "main": "index.js",
+  "repository": "https://github.com/transcompany/TestBot.git",
+  "author": "transcompanyvn@gmail.com",
+  "license": "No",
+  "private": false
+}
