@@ -5,6 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/transcompany/TestBot.git",
   "author": "transcompanyvn@gmail.com",
-  "license": "No",
-  "private": false
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "joi": "^13.1.1",
+    "node-telegram-bot-api": "^0.30.0",
+    "winston": "^2.4.0"
+  }
 }
