@@ -4,9 +4,8 @@ const winston = require('winston')
 
 const config = {
   logger: {
-    level: envVars.LOGGER_LEVEL,
-    enabled: envVars.LOGGER_ENABLED,
-    googleCloudTransportEnabled: envVars.GOOGLE_CLOUD_TRANSPORT_ENABLED
+    level: 'debug',
+    enabled: 'true'
   }
 }
 

@@ -9,7 +9,7 @@
   "private": false,
   "dependencies": {
     "joi": "^13.1.1",
-    "node-telegram-bot-api": "^0.30.0",
+    "telebot": "^1.2.3",
     "winston": "^2.4.0"
   }
 }
